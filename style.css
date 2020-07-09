@@ -1,0 +1,112 @@
+header{
+    background-color: #f0fff0;
+    height: 576px;
+    margin-bottom: 30px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width: 150px;
+}
+nav{
+    margin-bottom: 30px; 
+}
+.green-button-style{
+    background-color: #21b573;
+    border: none;
+    border-radius: 33px;
+    padding: 5px 20px;
+    color: white;
+}
+.highlight-text-red{
+    color: red;
+}
+.highlight-text-green{
+    color: #21b573;
+}
+header h1{
+    font-weight: 800;
+    font-size: 50px;
+}
+.header-content-area{
+    padding: 10px 30px;
+}
+.header-content-area img{
+    width: 100%;
+}
+
+#books{
+    margin-bottom: 50px;
+}
+#books h5{
+    font-weight: 800;
+}
+#books img{
+    width: 80px;
+    margin: 20px 30px ;
+}
+.book-layout{
+    background-color: #f8fffb;
+    border-radius: 10px;
+    text-align: center;
+}
+.book-layout:hover{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1) ;
+}
+#courses h1{
+    font-weight: 800;
+    text-align: center;
+    margin: 70px auto;
+}
+#courses h5{
+    font-weight: 800;
+}
+#courses img{
+    padding: 15px;
+}
+.card{
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1) ;
+}
+#courses{
+    margin-bottom: 100px;
+}
+.card-footer{
+    border-top: none;   
+    background-color: white;
+}
+.card-footer img{
+    width: 50px;
+}
+.card-footer p{
+    height: 5px;
+}
+#testimonial h1{
+    font-weight: 800;
+    margin: 40px auto;
+    text-align: center;
+}
+#testimonial img{
+    border-radius: 50%;
+}
+.testimonial-layout{
+    margin: 50px auto;
+    width: 100%;
+}
+footer{
+    background-color: #282531;
+    color: white;
+
+}
+h6{
+    font-weight: 800;
+}
+.footer-layout{
+    padding: 50px 0px;
+}
+.copyright{
+    text-align: center;
+}
